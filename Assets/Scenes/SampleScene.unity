@@ -1539,10 +1539,6 @@ PrefabInstance:
       propertyPath: m_Center.y
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7912770041262756760, guid: 735d1375598123e4b8dec84f0592cab8, type: 3}
-      propertyPath: m_AngularSpeed
-      value: 360
-      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1216659173623020985, guid: 735d1375598123e4b8dec84f0592cab8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 735d1375598123e4b8dec84f0592cab8, type: 3}
